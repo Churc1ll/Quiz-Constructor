@@ -1,0 +1,15 @@
+export const SET_DATA = 'SET_DATA';
+export const SET_TABLE = 'SET_TABLE';
+export const SET_TOKEN = 'SET_TOKEN';
+export const SET_WAITING = 'SET_WAITING';
+export const SET_LOADING = 'SET_LOADING';
+export const SET_INDEX = 'SET_INDEX';
+export const SET_PLUS = 'SET_PLUS';
+export const OPEN_MODAL = 'OPEN_MODAL';
+export const CLOSE_MODAL = 'CLOSE_MODAL';
+export const SET_QUIZ = 'SET_QUIZ';
+export const SET_ZERO = 'SET_ZERO';
+export const OPEN_FAQ = 'OPEN_FAQ';
+export const CLOSE_FAQ = 'CLOSE_FAQ';
+export const SET_QUATITY = 'SET_QUATITY';
+export const SET_ERROR = 'SET_ERROR';
