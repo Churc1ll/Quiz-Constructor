@@ -29,7 +29,7 @@ function App() {
         <Modal />
         <section className='quiz'>
           <article className='container'>
-            <h4 dangerouslySetInnerHTML={{ __html: question }} />
+            <h3 dangerouslySetInnerHTML={{ __html: question }} />
             <div className='btn-container'>
               {answers.map((answer, index) => {
                 if (answer) return (
