@@ -9,7 +9,7 @@ const SetupForm = () => {
     <main>
       <FAQ />
       <section className='quiz quiz-small'>
-        <h2>quiz constructor</h2>
+        <h4>quiz constructor</h4>
         <form className='setup-form'>
           <div className='form-control'>
             <label htmlFor='amount'>number of questions</label>
